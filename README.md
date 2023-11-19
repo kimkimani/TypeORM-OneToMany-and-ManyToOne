@@ -1,20 +1,4 @@
-<div align="center">
-  <h1>store-nestjs</h1>
-  <img alt="Last commit" src="https://img.shields.io/github/last-commit/janapc/store-nestjs"/>
-  <img alt="Language top" src="https://img.shields.io/github/languages/top/janapc/store-nestjs"/>
-  <img alt="Repo size" src="https://img.shields.io/github/repo-size/janapc/store-nestjs"/>
-
-<a href="#project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#requirement">Requirement</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#run-project">Run Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#request-api">Request API</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#technologies">Technologies</a>
-
-</div>
-
-## Project
-
-Manager store using nestjs.
+[TypeORM OneToMany and ManyToOne with Nest.js and PostgreSQL](https://thriveread.com/typeorm-onetomany-and-manytoone-with-nestjs-postgres/)
 
 ## Requirement
 
